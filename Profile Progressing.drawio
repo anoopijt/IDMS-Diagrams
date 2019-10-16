@@ -1,6 +1,6 @@
-<mxfile modified="2019-10-16T07:11:34.559Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="OB34whFuQqibNgBDPBe8" version="12.1.1" type="github" pages="1">
+<mxfile modified="2019-10-16T07:22:31.164Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="d4Tsg8zxksh0cNplGUvo" version="12.1.1" type="github" pages="1">
   <diagram id="lFwR9xCJ9hHjlkrv7huP" name="Page-1">
-    <mxGraphModel dx="1280" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -731,7 +731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="puL9l7eoW7YJyn_PVjeL-1" value="&lt;b style=&quot;background-color: rgb(13 , 13 , 13)&quot;&gt;&lt;font color=&quot;#fcfcfc&quot;&gt;PROFILE PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="170" width="140" height="20" as="geometry"/>
+          <mxGeometry x="630" y="170" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="puL9l7eoW7YJyn_PVjeL-2" value="&lt;span style=&quot;background-color: rgb(8 , 2 , 1)&quot;&gt;&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;CHANGE PASSWORD&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="170" width="140" height="20" as="geometry"/>
@@ -739,29 +739,27 @@
         <mxCell id="puL9l7eoW7YJyn_PVjeL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="X3VkcKzJ3lrv4iuU31CN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="X3VkcKzJ3lrv4iuU31CN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="puL9l7eoW7YJyn_PVjeL-3" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#fcfcfc&quot; style=&quot;background-color: rgb(8 , 8 , 8)&quot;&gt;PROFILE PROGRESSION&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="110" width="160" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="puL9l7eoW7YJyn_PVjeL-5" value="" style="curved=1;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="160" as="sourcePoint"/>
-            <mxPoint x="680" y="130" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="780" y="110"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="puL9l7eoW7YJyn_PVjeL-7" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="180" as="sourcePoint"/>
-            <mxPoint x="1180" y="130" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="1180" y="120"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="puL9l7eoW7YJyn_PVjeL-8" value="&lt;font color=&quot;#fcfcfc&quot; face=&quot;Garamond&quot;&gt;&lt;span style=&quot;background-color: rgb(8 , 8 , 8)&quot;&gt;&lt;b&gt;B2C - B2B PROGRESSIVE PROFILING&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="840" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="X3VkcKzJ3lrv4iuU31CN-1" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontSize=7;fontColor=#000000;align=left;jumpStyle=gap;dashed=1;dashPattern=1 1;fontStyle=1" edge="1" parent="1" target="T2TZSGgnMwArEX4ejVak-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="440" as="sourcePoint"/>
+            <mxPoint x="480" y="400" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="440" y="440"/>
+              <mxPoint x="440" y="410"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
