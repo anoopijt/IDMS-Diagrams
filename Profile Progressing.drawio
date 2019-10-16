@@ -1,6 +1,6 @@
-<mxfile modified="2019-10-16T05:33:03.719Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="q72ZaAXpCC1-FIoBP_Y_" version="12.1.1" type="github" pages="1">
+<mxfile modified="2019-10-16T05:38:34.428Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="eR9h1qgLJmyJd5dy6pPS" version="12.1.1" type="github" pages="1">
   <diagram id="lFwR9xCJ9hHjlkrv7huP" name="Page-1">
-    <mxGraphModel dx="3072" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -733,7 +733,7 @@
         <mxCell id="puL9l7eoW7YJyn_PVjeL-1" value="&lt;b style=&quot;background-color: rgb(13 , 13 , 13)&quot;&gt;&lt;font color=&quot;#fcfcfc&quot;&gt;PROFILE PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="170" width="140" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="puL9l7eoW7YJyn_PVjeL-2" value="&lt;span style=&quot;background-color: rgb(8 , 2 , 1)&quot;&gt;&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;PASSWORD-UPDATE&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="puL9l7eoW7YJyn_PVjeL-2" value="&lt;span style=&quot;background-color: rgb(8 , 2 , 1)&quot;&gt;&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;CHANGE PASSWORD&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="170" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="puL9l7eoW7YJyn_PVjeL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="puL9l7eoW7YJyn_PVjeL-3" target="puL9l7eoW7YJyn_PVjeL-8">
@@ -760,8 +760,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="puL9l7eoW7YJyn_PVjeL-8" value="&lt;b&gt;&lt;font face=&quot;Garamond&quot; color=&quot;#fcfcfc&quot; style=&quot;background-color: rgb(8 , 8 , 8)&quot;&gt;PROFILE PROGRESSION&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="840" width="160" height="20" as="geometry"/>
+        <mxCell id="puL9l7eoW7YJyn_PVjeL-8" value="&lt;font color=&quot;#fcfcfc&quot; face=&quot;Garamond&quot;&gt;&lt;span style=&quot;background-color: rgb(8 , 8 , 8)&quot;&gt;&lt;b&gt;B2C - B2B PROGRESSIVE PROFILING&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="840" width="280" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
